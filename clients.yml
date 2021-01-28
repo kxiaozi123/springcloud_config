@@ -10,5 +10,5 @@ spring:
     port: 5672
     username: guest
     password: guest
-name: zhangsan999
+name: zhangsan777
  
