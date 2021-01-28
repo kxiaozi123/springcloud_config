@@ -5,9 +5,12 @@ spring:
       host: localhost
       discovery:
         service-name: ${spring.application.name}
+    config:
+       fail-fast: true
 name: zhangsan233
   rabbitmq:
     host: 192.168.154.130
     username: guest
     password: guest
     port: 5672
+ 
