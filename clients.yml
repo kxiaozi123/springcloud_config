@@ -5,4 +5,4 @@ spring:
       host: localhost
       discovery:
         service-name: ${spring.application.name}
-name: zhangsan
+name: zhangsan233
